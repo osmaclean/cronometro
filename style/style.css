@@ -17,6 +17,18 @@ body {
 
 }
 
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    height: 200px;
+    width: 550px;
+    background: transparent;
+    border-radius: 5px;
+    box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.5);
+}
+
 .cronometro-container {
     width: 100%;
     max-width: 480px;
