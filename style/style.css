@@ -22,11 +22,12 @@ body {
     align-items: center;
     justify-content: space-around;
     flex-direction: column;
-    height: 200px;
-    width: 550px;
+    height: 250px;
+    width: 600px;
     background: transparent;
     border-radius: 5px;
     box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.5);
+    margin-bottom: 190px;
 }
 
 .cronometro-container {
@@ -89,7 +90,16 @@ body {
 }
 
 
-
+.h1 {
+    color: aliceblue;
+    display: flex;
+    font-size: 35px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 150px;
+    
+}
 
 
 
