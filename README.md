@@ -13,6 +13,8 @@
 ## Desabilitar botões quando já se encontram em uso.
 ![imagem_2023-01-01_151051666](https://user-images.githubusercontent.com/115199808/210180715-89043375-59ac-4f13-9f64-78c3dde016ac.png)![imagem_2023-01-01_151305865](https://user-images.githubusercontent.com/115199808/210180776-3a404a45-242d-4b54-b35b-9bf35008dbd0.png)
 
+<hr>
+
 # IDE Utilizada
 
 <div> 
