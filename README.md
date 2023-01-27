@@ -15,6 +15,12 @@
 
 <hr>
 
+## Link do Deploy (Vercel)
+
+https://cronometro-puce.vercel.app
+
+<hr>
+
 # IDE Utilizada
 
 <div> 
