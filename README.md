@@ -15,7 +15,7 @@
 
 <hr>
 
-## Link do Deploy (Vercel)
+## Link de Acesso ao Projeto (Vercel)
 
 https://cronometro-puce.vercel.app
 
